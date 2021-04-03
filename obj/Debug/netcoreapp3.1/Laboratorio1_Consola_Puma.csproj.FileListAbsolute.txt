@@ -1,0 +1,13 @@
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.exe
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.deps.json
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.runtimeconfig.json
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.runtimeconfig.dev.json
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.dll
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\bin\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.pdb
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.csprojAssemblyReference.cache
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.AssemblyInfoInputs.cache
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.AssemblyInfo.cs
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.csproj.CoreCompileInputs.cache
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.dll
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.pdb
+E:\2021-I\lp2\u1\Laboratorio1_Consola_Puma\obj\Debug\netcoreapp3.1\Laboratorio1_Consola_Puma.genruntimeconfig.cache
